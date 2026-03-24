@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer with 1+ years of industry experience building backend and frontend systems, including applied AI solutions. Strong foundation in Python, C++, JavaScript, SQL, data structures and algorithms, and system design.
+I am a Software Engineer with 1+ years of industry experience building backend and frontend systems, including applied AI solutions. I graduated from IIT Gandhinagar in CSE(2023) and have a strong foundation in Python, C++, JavaScript, SQL, data structures and algorithms, and system design.
 
 
 ## 🌐 Socials:
