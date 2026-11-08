@@ -1,8 +1,5 @@
-# 💫 About Me:
-Software Engineer from IIT Gandhinagar with a strong background in algorithms, web development, and
-AI workflows. Experience writing efficient backend logic, building RAG pipelines, and fine-tuning
-open-source models. Skilled at learning new codebases quickly, fixing frontend bugs, and creating
-high-quality datasets for AI training.
+# About Me:
+I'm a curious software engineer who enjoys taking a problem end to end, from understanding why it happens to building and testing a fix that holds up in real use. Most recently at Amazon, I helped design and build a Java/AWS system that catches billing errors and sends each one to the right team. Before that, I worked on React and Next.js apps and AI projects in Python.
 
 
 ## 🌐 Socials:
